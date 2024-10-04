@@ -89,8 +89,8 @@ function runTests() {    };
                 Mon: 2,
                 Tue: 4,
                 Wed: 6,
-                Thu: 8,  //  This is derived from (6 + 0) / 2 => 3
-                Fri: 10, //  This is derived from (3 + 12) / 2 => 6
+                Thu: 8,  //  This will be  (6 + 0) / 2 => 3
+                Fri: 10, //  This will be (3 + 12) / 2 => 6
                 Sat: 12,
                 Sun: 14,
             },
